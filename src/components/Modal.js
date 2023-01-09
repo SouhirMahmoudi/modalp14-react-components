@@ -13,7 +13,7 @@ export default function Modal(props) {
     // Set the display of the modal 
     // const [open, setOpen] = useState(true);
 
-    console.log(props.openstatus, props.text)
+   // console.log(props.openstatus, props.text)
     return (
         <div>
             {props.openstatus ? (
